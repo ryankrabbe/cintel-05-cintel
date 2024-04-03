@@ -112,24 +112,17 @@ with ui.sidebar(open="open", style="background-color: pink; color: black;"):
   ui.h6("Links:", style="color: black;")
   ui.a(
         "GitHub Source",
-        href="https://github.com/ryankrabbe/cintel-05-cintel",
+        href="https://github.com/ryankrabbe/cintel-05-cintel/blob/main/app.py",
         target="_blank",
         style="color: black;",
   )
   ui.a(
         "GitHub App",
-        href="https://denisecase.github.io/cintel-05-cintel-fancy/",
+        href="https://github.com/ryankrabbe/cintel-05-cintel",
         target="_blank",
         style="color: black;",
   )
   ui.a("PyShiny", href="https://shiny.posit.co/py/", target="_blank")
-ui.a(
-        "PyShiny Express",
-        href="hhttps://shiny.posit.co/blog/posts/shiny-express/",
-        target="_blank",
-        style="color: black;",
-    )
-
 #---------------------------------------------------------------------
 # In Shiny Express, everything not in the sidebar is in the main panel
 #---------------------------------------------------------------------
