@@ -1,8 +1,8 @@
+faicons
 pandas
 plotly
-faicons 
-pyarrow 
-scipy 
-shiny 
-shinylive 
+pyarrow
+scipy
+shiny
+shinylive
 shinywidgets
