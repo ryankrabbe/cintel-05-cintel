@@ -122,7 +122,7 @@ with ui.sidebar(open="open", style="background-color: pink; color: black;"):
         target="_blank",
         style="color: black;",
   )
-  ui.a("PyShiny", href="https://shiny.posit.co/py/", target="_blank")
+  ui.a("PyShiny", href="https://shiny.posit.co/py/", target="_blank", style="color: black;")
 #---------------------------------------------------------------------
 # In Shiny Express, everything not in the sidebar is in the main panel
 #---------------------------------------------------------------------
