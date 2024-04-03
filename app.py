@@ -94,7 +94,7 @@ def reactive_calc_combined():
 # Set title to a string in quotes that will appear at the top
 # Set fillable to True to use the whole page width for the UI
 
-ui.page_opts(title="Ryan's PyShiny Live Data Example", fillable=True)
+ui.page_opts(title="St Louis Live Temperature and Data", fillable=True)
 
 # ------------------------------------------------
 # Define the Shiny UI Page layout - Sidebar
